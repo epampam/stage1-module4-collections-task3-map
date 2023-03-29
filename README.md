@@ -8,6 +8,7 @@ where `key` - the word from sentence in lower case, `value` - the number of repe
 ```
 public class WordRepetitionMapCreator {
   public Map<String, Integer> createWordRepetitionMap(String sentence) {
+  
   }
 }
 ```
